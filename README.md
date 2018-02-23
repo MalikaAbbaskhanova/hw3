@@ -1,3 +1,10 @@
-# hw3
+# hw3. Опрос. About rap
+__Темой моего опроса__ являлся rap. 
 
-https://docs.google.com/forms/d/e/1FAIpQLSeS1IgEhGfaX8LshR1exkna-GxwNMTWkG1JyUS5S8pAPDwyMA/viewform
+*Целью исследования* являлось узнать какое количество людей на филологии и с общежития №3 НИУ ВШЭ слушают rap, увлечены этим направлением и какие жанры и стили rap они слушают.
+
+В опросе приняли участие 41 человек и по результатам удалось выяснить, что 16 человек слушают и зарубежный, и русский rap, 11 опрошенных слушают только русский rap, 4 человека слушают только зарубежный, а все остальные не заинтересованны в этом жанре.
+
+Опрос: https://docs.google.com/forms/d/e/1FAIpQLSeS1IgEhGfaX8LshR1exkna-GxwNMTWkG1JyUS5S8pAPDwyMA/viewform
+
+Таблица ответов: https://docs.google.com/spreadsheets/d/1QM6mgwOCdSPvalh9tbci-voa0fGB1vYn7-NUtUTKHrI/edit#gid=1923418843&fvid=545233252
